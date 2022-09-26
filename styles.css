@@ -1,0 +1,24 @@
+.carouselImg{
+    filter: brightness(50%);
+}
+
+p {
+    font-size: 0.7rem;
+}
+
+.link_tickets{
+    color: #29a744;
+}
+
+.descripcionTitulo, .descripcion2 {
+    color: white;
+}
+.charla {
+    border-bottom: 2px dotted black;
+}
+
+
+
+.footer_links li a {
+    color: white;
+}
